@@ -1,0 +1,41 @@
+caption{
+    font-size: 30px;
+}
+
+.tabela2{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aliceblue;
+}
+
+.tabela2 td{
+    font-size: 20px;
+    padding: 40px;
+}
+.tabela2 th{
+    font-size: 20px;
+}
+.tabela2 tr{
+    height: 20px;
+    width: 20;
+}
+.tabela2 footer{
+    height: 80px;
+}
+
+.imagem-frango-a-parmegiana{
+    width: 300px;  
+    height: auto;  
+}
+.imagem-bife-a-parmegiana{
+    width: 300px;  
+    height: auto;  
+}
+.bife-a-cavalo{
+    width: 300px;  
+    height: auto;  
+}
+.Feijoada{
+    width: 300px;  
+    height: auto;  
+}

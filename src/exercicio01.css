@@ -1,0 +1,28 @@
+caption{
+    font-size: 30px;
+}
+
+.tabela{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(229, 238, 235);
+    padding: 10px;
+    
+    
+}
+
+.tabela td{
+    
+    padding: 80px;
+
+    font-size: 20px;
+}
+
+.tabela th{
+    font-size: 25px;
+}
+
+.tabela tr{
+    height: 20px;
+    width: 20;
+}
